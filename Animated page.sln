@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login page Animated", "Login page Animated\Login page Animated.csproj", "{51C02222-2E2C-4BBC-8AD3-8A6E87D1383B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C02222-2E2C-4BBC-8AD3-8A6E87D1383B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C02222-2E2C-4BBC-8AD3-8A6E87D1383B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C02222-2E2C-4BBC-8AD3-8A6E87D1383B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C02222-2E2C-4BBC-8AD3-8A6E87D1383B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {867B112A-003B-491A-B571-B1DBF8D722C6}
+	EndGlobalSection
+EndGlobal
